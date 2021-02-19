@@ -1,9 +1,8 @@
 
-# Pharmacy Database in SQL
-> full persian report
+# Pharmacy Database in SQL + persian report
 
 
-> Using this project is free except you must read [this](https://quran.com/surah-ya-sin) once as a dedication to the spirit of my grandmother's mother.
+> Using this project is **Free** to use **Except** you **Must read** [this](https://quran.com/surah-ya-sin), once as a dedication to the spirit of my grandmother's mother.
 
 
 
